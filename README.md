@@ -4,7 +4,6 @@
 
 - [Descrição](#descrição)
 - [Tecnologias usadas](#tecnologias-usadas)
-- [Estrutura de arquivos](#estrutura-de-arquivos)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
 
@@ -16,15 +15,6 @@ Fiz esse projeto de acordo com um curso do Alura que fiz sobre **HTML e CSS**, a
 
 1. HTML5
 2. CSS3
-
-## Estrutura de arquivos
-
-/cineflix
-│
-├── index.html
-├── styles.css
-├── README.md
-└── LICENSE
 
 ## Uso
 
