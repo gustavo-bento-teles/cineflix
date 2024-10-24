@@ -11,6 +11,8 @@
 
 Fiz esse projeto de acordo com um curso do Alura que fiz sobre **HTML e CSS**, além de que pôde me ajudar a aumentar meus conhecimentos nessas tecnologias de Front-End. **Como principal objetivo dele foi o aprendizado providenciado à mim.**
 
+**O conteúdo do site é como se fosse um site simples sobre filmes.**
+
 #### Tecnologias usadas:
 
 1. HTML5
